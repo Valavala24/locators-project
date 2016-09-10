@@ -1,4 +1,4 @@
-#Automation Project
+#Locators Project
 
 *Project for creating automation tests using TestNG and Selenium.*
 
@@ -12,6 +12,6 @@
 * SQL
 * CVS/ Test
 
- Automation Project.
+ Locators Project.
 
 [Valentyna Panchuk](https://github.com/valavala24)
